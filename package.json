@@ -3,7 +3,8 @@
 	"displayName": "vscode-diff",
 	"description": "View git diff in a new buffer",
 	"version": "0.0.1",
- 	"license": "BSD-2-Clauses",
+	"license": "BSD-2-Clauses",
+	"repository": "https://github.com/huytd/vscode-diff",
 	"publisher": "huytd",
 	"engines": {
 		"vscode": "^1.36.0"
